@@ -2,7 +2,7 @@
 A single page responsive website built with HTML, CSS, JavaScript and Cloudflare.
 
 View Live Site: 
-https://fully-responsive-construction-company-website.s3.eu-west-2.amazonaws.com/index.html?#about
+https://fully-responsive-construction-company-website.s3.eu-west-2.amazonaws.com/index.html?
 
 ## To View The Site ##
 Follow these steps: 
